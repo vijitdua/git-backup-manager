@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "simple-git": "^3.27.0"
+  },
+  "name": "git-backup-manager",
+  "version": "1.0.0",
+  "description": "Too broke to afford github enterprise but can't take the risk of a team mate nuking your entire repository with --force?",
+  "main": "backup.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
